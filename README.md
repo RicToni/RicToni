@@ -33,6 +33,6 @@
 </p>
 <hr>
 
-![snake gif](https://github.com/RicToni/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RicToni/RicToni/tree/output/github-contribution-grid-snake.svg)
 
 
