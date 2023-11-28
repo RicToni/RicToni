@@ -31,5 +31,5 @@
 </a>
 </p>
 <hr>
-![snake gif](https://github.com/RicToni/RicToni/blob/output/github-contribution-grid-snake.svg)
+
 
