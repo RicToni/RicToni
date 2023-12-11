@@ -22,7 +22,7 @@
 <div>
   <h2> 📚 Cursando: </h2>
   <ul>
-     <li>Técnico em Desenvolvimento de sistemas - Anhanguera</li>
+     <li>Análise e Desenvolvimento de Sistemas - Faculdade Estácio</li>
      <li>Curso FullSstack JavaScript - OneBitCode</li>
      <li>Trilhas de carreira FullStack Dio.</li>
   </ul>
