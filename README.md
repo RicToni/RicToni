@@ -27,9 +27,9 @@
      <li>Trilhas de carreira FullStack Dio.</li>
   </ul>
 <hr>
-<a href="https://www.linkedin.com/in/ricardo-tonholli-1121151b9/"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://skillicons.dev/icons?i=all](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg">
+<a href="https://www.linkedin.com/in/ricardo-tonholli-1121151b9/"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/32fed31c-bbce-4a33-a053-59b6a67053bc">
 </a>
-<a href="https://www.instagram.com/ricardotonholli/"><img src="https://github.com/RicToni/RicToni/assets/132107032/91e91c74-acb9-40e4-a049-0ab92f9ec166">
+<a href="https://www.instagram.com/ricardotonholli/"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/0ef305a5-1725-41f4-ade1-c11a46fa738a">
 </a>
 </div>
 
