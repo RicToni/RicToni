@@ -25,7 +25,7 @@
      <li>Análise e Desenvolvimento de Sistemas - Faculdade Estácio</li>
      <li>Curso FullSstack JavaScript - OneBitCode</li>
      <li>Trilhas de carreira FullStack Dio.</li>
-     <li>Curso FullStack JS + Python. presencial - Infinity School</li>
+     <li>Curso FullStack JS + Python, presencial - Infinity School</li>
   </ul>
 <hr>
 <a href="https://www.linkedin.com/in/ricardo-tonholli-1121151b9/"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/32fed31c-bbce-4a33-a053-59b6a67053bc">
