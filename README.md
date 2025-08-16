@@ -38,10 +38,8 @@
 </div>
 <hr>
 <div>
-  <h2> 📚 Cursando: </h2>
-  <ul>
-     <li>Análise e Desenvolvimento de Sistemas - Faculdade Estácio</li>
-  </ul>
+  <h3><a href="https://ricardotonholli.vercel.app/">➣ Portfólio 🖜 </a></h3>
+
 <hr>
 <a href="https://www.linkedin.com/in/ricardo-tonholli-1121151b9/"><img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://github.com/RicToni/RicToni/assets/132107032/32fed31c-bbce-4a33-a053-59b6a67053bc">
 </a>
