@@ -17,8 +17,10 @@
   
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" />
+  
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  
+  
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />        
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
  
