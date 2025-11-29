@@ -1,8 +1,5 @@
 <h1> Olá, bem vindo(a) ao meu perfil </h1>
-<div>  
- <img style="height: 13em;" src="https://github-readme-stats.vercel.app/api?username=RicToni&theme=dark&show_icons=true&hide_border=false&count_private=true">
- <img style="height: 13em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicToni&theme=dark&show_icons=true&hide_border=false&layout=compact">
-</div>
+
 <br>
 <div >
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
