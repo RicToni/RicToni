@@ -8,7 +8,7 @@
  
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
           
-  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" />
+  
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   
