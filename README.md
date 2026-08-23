@@ -39,6 +39,22 @@
           
 </div>
 <hr>
+<div >
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://devicons.io/devicons/icons/claude-code.svg" />
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://miro.medium.com/v2/1*YCV99o2CWe_txaatOclaWA.png" />
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://devicons.io/devicons/icons/deepseek.svg" />
+  <img style="max-height: 100%; width: 40px; margin-right: 20px;" src="https://devicons.io/devicons/icons/docker-icon.svg" />
+ 
+  
+
+          
+  
+
+
+
+          
+</div>
+<hr>
 <div>
   <h3><a href="https://ricardotonholli.vercel.app/">➣ Portfólio 🖜 </a></h3>
 
